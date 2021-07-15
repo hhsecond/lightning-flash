@@ -3,4 +3,4 @@ channels:
   - defaults
 dependencies:
   - pip:
-    - lightning-flash[text]
+    - lightning-flash[image]
